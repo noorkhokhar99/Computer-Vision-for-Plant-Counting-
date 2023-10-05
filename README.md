@@ -19,3 +19,6 @@ cd Computer-Vision-for-Plant-Counting-
 `python Plant_counter.py --src Images/1.jpg`
 
 
+<p align="center">
+<img src="https://github.com/noorkhokhar99/Computer-Vision-for-Plant-Counting-/blob/main/Result/Capture.PNG">
+</p>
