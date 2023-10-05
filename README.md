@@ -11,11 +11,12 @@ https://github.com/noorkhokhar99/Computer-Vision-for-Plant-Counting-.git
 ```
 cd Computer-Vision-for-Plant-Counting-
 
-
+```
 - Run the code with the mentioned command below.
-
+```
+```
  - Run for webcam
- 
+ ```
 `python Plant_counter.py --src Images/1.jpg`
 
 
