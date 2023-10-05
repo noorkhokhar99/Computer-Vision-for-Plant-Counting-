@@ -16,6 +16,6 @@ cd Computer-Vision-for-Plant-Counting-
 
  - Run for webcam
  
-` python Plant_counter.py --src Images/1.jpg`
+`python Plant_counter.py --src Images/1.jpg`
 
 
